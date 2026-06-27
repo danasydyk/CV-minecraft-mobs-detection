@@ -1,4 +1,4 @@
-# Minecraft Mobs Detection — YOLOv8
+# Minecraft Mobs Detection - YOLOv8
 
 A real-time object detection model trained to detect Minecraft hostile mobs using YOLOv8.
 
